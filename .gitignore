@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.py[cod]
+*.sqlite3
+data/
+.env
+.DS_Store
+
+# Local recovery copy, not part of the active project.
+/work/legacy-scaffold-2026-10-04.tar.gz
